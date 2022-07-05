@@ -20,4 +20,5 @@ public class clientHttp {
         Assert.assertEquals(actualStatus, 200);
         System.out.println(actualStatus);
     }
+
 }
